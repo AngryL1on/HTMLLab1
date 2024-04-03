@@ -1,0 +1,19 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10% 5%;
+    padding: 0;
+    align-items: center;
+}
+
+.item {
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.border {
+    border: 0.4rem solid black;
+    width: 100%;
+    padding: 10px;
+}

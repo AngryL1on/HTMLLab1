@@ -1,0 +1,23 @@
+nav {
+    padding-left: 50px;
+}
+nav,
+#one {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(48, 183, 111);
+    margin-left: 20px;
+}
+
+body {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#one {
+    font-size: 50px;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

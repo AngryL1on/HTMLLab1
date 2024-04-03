@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(237, 237, 237);
+    color: rgb(50, 50, 50);
+}
+
+img {
+    width: 50%;
+}
+
+article {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+footer {
+    font-family: serif;
+}
