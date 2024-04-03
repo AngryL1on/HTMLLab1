@@ -1,0 +1,21 @@
+ul {
+    align-items: center;
+}
+
+body,
+ul,
+li {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}
+
+img {
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    border: 0.4rem black solid;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    object-fit: contain;
+}
